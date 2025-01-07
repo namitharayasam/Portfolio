@@ -61,9 +61,13 @@ sizing and spacing as well.
 
 body {
 	font-family:"DM Serif Text", serif;
-	font-weight: 400
-	color:#333;
-	background:#333;
+	font-weight: 400;
+	color: #333;
+	background: #333;
+}
+
+body.autonomous-quadcopter {
+    background: #ffffff; /* change to a light blue for this page */
 }
 
 /************* typography ************/
